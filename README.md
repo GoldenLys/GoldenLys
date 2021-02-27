@@ -15,3 +15,8 @@
 <h2>Trophies</h2>
 
 <img src="https://github-profile-trophy.vercel.app/?username=GoldenLys&row=5&column=8" alt="Trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=GoldenLys&amp;row=5&amp;column=8" style="max-width:100%;">
+
+<h2>Most popular repositories</h2>
+
+[![ELYSIA](https://github-readme-stats.vercel.app/api/pin/?username=GoldenLys&repo=BetterDiscord-Elysia)](https://github.com/GoldenLys/BetterDiscord-Elysia)
+[![ALPHARPG](https://github-readme-stats.vercel.app/api/pin/?username=GoldenLys&repo=AlphaRPG)](https://github.com/GoldenLys/AlphaRPG)
