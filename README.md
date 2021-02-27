@@ -1,4 +1,4 @@
-<h2>Links</h2>
+<h2>Useful links</h2>
 
 <a target="_blank" href="https://purplewizard.space">My website</a><br />
 <a target="_blank" href="https://discord.gg/SBuYeHh">My discord server</a>
