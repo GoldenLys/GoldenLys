@@ -18,5 +18,5 @@
 
 <h2>Most popular repositories</h2>
 
-[![ELYSIA](https://github-readme-stats.vercel.app/api/pin/?username=GoldenLys&repo=BetterDiscord-Elysia)](https://github.com/GoldenLys/BetterDiscord-Elysia)
-[![ALPHARPG](https://github-readme-stats.vercel.app/api/pin/?username=GoldenLys&repo=AlphaRPG)](https://github.com/GoldenLys/AlphaRPG)
+[![ELYSIA](https://github-readme-stats.vercel.app/api/pin/?username=GoldenLys&repo=BetterDiscord-Elysia&theme=tokyonight)](https://github.com/GoldenLys/BetterDiscord-Elysia)
+[![ALPHARPG](https://github-readme-stats.vercel.app/api/pin/?username=GoldenLys&repo=AlphaRPG&theme=tokyonight)](https://github.com/GoldenLys/AlphaRPG)
