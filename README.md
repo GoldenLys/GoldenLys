@@ -1,8 +1,15 @@
+<div data-class="blue">test</div>
+
 <img src="https://komarev.com/ghpvc/?username=GoldenLys" alt="GoldenLys" title="GoldenLys Profile Views" />
+[Personnal website](https://purplewizard.space)
+[Community server](https://discord.gg/SBuYeHh)
 
 <img align="left" title="GoldenLys's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=GoldenLys&theme=tokyonight" />
 
 <img align="left" title="GoldenLys's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GoldenLys&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" />
+
+
+
 
 <h2>Trophies</h2>
 
