@@ -13,12 +13,10 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/GoldenLys/BetterDiscord-Elysia)<br />
 [![ELYSIA](https://github-readme-stats.vercel.app/api/pin/?username=GoldenLys&repo=BetterDiscord-Elysia&theme=tokyonight&hide_border=true)](https://github.com/GoldenLys/BetterDiscord-Elysia)
-
+---
 <br />![GitHub last commit](https://img.shields.io/github/last-commit/GoldenLys/AlphaRPG)<br />
 [![ALPHARPG](https://github-readme-stats.vercel.app/api/pin/?username=GoldenLys&repo=AlphaRPG&theme=tokyonight&hide_border=true)](https://github.com/GoldenLys/AlphaRPG)
 
-<h2>About me</h2>
-
+---
 ![Purple Wizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoldenLys&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenLys&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
