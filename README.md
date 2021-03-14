@@ -1,7 +1,9 @@
 
-<p align="center">
-  <img src="https://pageview.vercel.app/?github_user=GoldenLys"> • <a target="_blank" href="https://purplewizard.space">My Website</a> • <a target="_blank" href="https://discord.gg/SBuYeHh">Discord server</a>
+<p>
+  <img src="https://pageview.vercel.app/?github_user=GoldenLys"> • <a target="_blank" href="https://purplewizard.space">My website</a>
 </p>
+
+[![Join Game Tracker Discord](https://discordapp.com/api/guilds/572926470788218891/embed.png?style=banner2)](https://discord.gg/SBuYeHh)
 
 ---
 
@@ -9,7 +11,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoldenLys&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=GoldenLys&theme=nord&no-frame=true&margin-h=10&margin-w=10)](https://github.com/GoldenLys/github-profile-trophy)
 
 <h2>Most popular repositories</h2>
 
