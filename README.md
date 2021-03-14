@@ -18,5 +18,5 @@
 [![ELYSIA](https://github-readme-stats.vercel.app/api/pin/?username=GoldenLys&repo=BetterDiscord-Elysia&theme=tokyonight&hide_border=true)](https://github.com/GoldenLys/BetterDiscord-Elysia)
 ---
 
-<br />![GitHub last commit](https://img.shields.io/github/last-commit/GoldenLys/AlphaRPG)<br />
+![GitHub last commit](https://img.shields.io/github/last-commit/GoldenLys/AlphaRPG)<br />
 [![ALPHARPG](https://github-readme-stats.vercel.app/api/pin/?username=GoldenLys&repo=AlphaRPG&theme=tokyonight&hide_border=true)](https://github.com/GoldenLys/AlphaRPG)
