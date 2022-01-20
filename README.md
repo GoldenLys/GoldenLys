@@ -15,7 +15,7 @@
 <h2>Most popular repositories</h2>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/GoldenLys/WizardUI)<br />
-[![WizardUI](https://github-readme-stats.vercel.app/api/pin/?username=GoldenLys&repo=BetterDiscord-Elysia&theme=tokyonight&hide_border=true)](https://github.com/GoldenLys/WizardUI)
+[![WizardUI](https://github-readme-stats.vercel.app/api/pin/?username=GoldenLys&repo=WizardUI&theme=tokyonight&hide_border=true)](https://github.com/GoldenLys/WizardUI)
 ---
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/GoldenLys/AlphaRPG)<br />
